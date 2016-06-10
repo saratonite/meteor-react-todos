@@ -110,6 +110,9 @@ header .hide-completed {
 .toggle-private {
   margin-left: 5px;
 }
+.lt{
+  text-decoration: line-through;
+}
 
 @media (max-width: 600px) {
   li {
